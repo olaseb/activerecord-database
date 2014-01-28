@@ -1,4 +1,4 @@
-`Sqlite` is a simple database that can be used as a standalone file.
+ `Sqlite` is a simple database that can be used as a standalone file.
 If you want more information: [http://en.wikipedia.org/wiki/SQLite](http://en.wikipedia.org/wiki/SQLite)
 
 The goal of this first exercie is to use the command line to read and query a sample database called `jukebox.sqlite`
