@@ -11,7 +11,7 @@ unless ActiveRecord::Base.connection.tables.include? "recipes"
   ActiveRecord::Schema.define do
     create_table :recipes do |t|
       # your code here to create the schema of the Recipes table  
-       
+       t.column "dddd", :string
     end
   end
 end
